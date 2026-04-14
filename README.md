@@ -156,9 +156,8 @@ where:
 
 ## Dataset
 
-Audio recordings are sourced from **Seeking Alpha** earnings call transcripts and audio archives. The dataset covers S&P 500 companies over multiple fiscal years.
+Audio recordings are sourced from **Frfinitiv** earnings call transcripts and audio archives. The dataset covers S&P 500 companies over multiple fiscal years.
 
-- **Test set**: GOOGL (Google / Alphabet)
 - **Full dataset**: ~50,000 utterance-level samples
 - Stock return labels: Abnormal returns (AR) computed relative to market benchmark on the day of / day after the earnings call.
 
